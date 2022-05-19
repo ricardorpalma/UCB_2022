@@ -15,23 +15,23 @@
 * Camilo Chaparro- 
 * Daniela Uria - 
 * Rolando Rodriguez - 
-* Laura Azeñas 
+* Laura Azeñas <laura.a.baldivia@gmail.com >
 
 ### Grupo 2
 
 * Ariana Bobarín - 
 * Alexandra Valdiviezo - 
-* Laura Tórrez 
+* Laura Tórrez <laura.a.torrez@gmail.com>
 
 ### Grupo 3
 
 * Daira Galarza - 
 * Diego Torrez - 
-* Marcelo Azurduy 
+* Marcelo Azurduy <waltermarcelo89@gmail.com>
 
 ### Grupo 4
 
-* Juan Pablo flores- 
+* Juan Pablo Flores- <juanpifloresch@gmail.com >
 * Sergio Irahola - 
 * Toshiro Sánchez 
 * Jhisel Justiniano
@@ -40,7 +40,7 @@
 
 * Alex Tumiri - 
 * Gonzalo Rengel - 
-* Kalep Peñaranda - 
+* Kalep Peñaranda - <Kapema23@gmail.com>
 * Jhanir Peña 
 
 ### Grupo 6
@@ -48,11 +48,11 @@
 * Fabio Rios - 
 * Fabricio Aguirre - 
 * Grecia Villarroel - 
-* Maribel Huayta 
+* Maribel Huayta <maribel.huaytap@gmail.com >
 
 ### Grupo 7
 
-* Paola Delgado 
+* Paola Delgado <paola.delgadovillanueva@gmail.com >
 * Elvira Melgari
 * Alejandra Molina.
  
