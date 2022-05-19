@@ -8,6 +8,8 @@
 
 [Material del Curos](https://themys.sid.uncu.edu.ar/rpalma/UCB/Nuevos_Topicos_Logistica/)
 
+[Presentaciones web para la evaluación](https://ricardorpalma.github.io/UCB_2022/)
+
 ### Grupo 1
 
 * Camilo Chaparro- 
