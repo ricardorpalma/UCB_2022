@@ -15,7 +15,7 @@
 * Camilo Chaparro- 
 * Daniela Uria - 
 * Rolando Rodriguez - 
-* Laura Azeñas <laura.a.baldivia@gmail.com >
+* **Laura Azeñas** <laura.a.baldivia@gmail.com >
 
 ### Grupo 2
 
