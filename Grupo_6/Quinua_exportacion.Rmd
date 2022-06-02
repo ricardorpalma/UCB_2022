@@ -1,0 +1,464 @@
+---
+title: "NUEVOS TOPICOS DE LOGISTICA"
+author: "GRUPO 6"
+date: "6/1/2022"
+output: slidy_presentation
+duration: 20
+---
+
+## Integrantes:
+
+                       * Fabio Marcelo Rios Cortez
+                       * Maribel Huayta
+                       * Fabricio Aguirre
+                       * Grecia Villarroel
+
+## Análisis de riesgo
+
+Los avances de datos disponibles en la nube han logrado superar las barreras de los estancos que los límites del Modelo de Valor Agregado o Cadena de Valor de Porter propuso en los 80’ y nos ha dejado pasar al complejo entramado del modelo de Supply Chain Management y Supply Chain Network.
+
+hay dos lenguajes de propósito general que se están imponiendo en el terreno de abordar y aplicar los conceptos de Analítica de Datos:
+
+- El primero de ellos es Python.
+
+- El otro lengunaje, es R-Cran.
+
+
+
+**Desambiguación de conceptos**
+
+Se suele utilizar como sinónimos, pero son diferentes conceptos
+
+* Analítica de Datos.
+* Machine Learning.
+* Deep Learning.
+* Business Intelligence.
+* Minería de Datos.
+* Inteligencia Artificial.
+
+Visto en una aproximación al problema partiendo de los modelos estadísticos:
+
+![Mecanismo Informático](imagen1.png)
+
+En analítica de datos, se invierte el proceso y se toman datos sin etiquetar para someterlos al análisis de un modelo y predecimos que resultado de obtendría en un mundo físico a partir de los datos que son abstracción de ese mundo. Asi, se puede:
+
+* Predecir cuando se romperá un eje.
+* Encontrar en que categoría de la flota sería conveniente incorporar un camíon nuevo.
+* Determinar antes de cerrar una transacción electrónica virtual la probabilidad de fraude.
+* Etc.
+
+
+![Enfoque de Inteligencia Artificial](imagen2.png)
+
+Por último tenemos el abordaje de machine learning.
+
+![Abordaje Machine Learning](imagen3.png)
+
+**La recomendación del ipcc para la gestión del Riesgo**
+
+Se emitieron recomendaciones para la gestión del riesgo en vista a la creciente importancia y magnitud que los eventos climáticos extremos tienen para los países, las poblaciones y sus infraestructuras críticas.
+
+**Consecuencias para la logística**
+
+* Mediante un taller virtual, se propusieron consignas que indagaron en torno a las estructuras organizacionales, misiones y competencias de los organismos, productos emitidos por los servicios meteorológicos, canales de difusión de la información y acciones realizadas por los tomadores de decisión.
+* Los informes de estos talleres se encuentran disponibles en los sitios web de los servicios meteorológicos de cada país y reflejan las consecuencias y previsiones que hay que tomar en el sector de la logística relativa a la metodología para reducción del riesgo de desastre por un lado , sabiendo que el transporte es junto a la industria uno de los principales emisores.
+* Por otro lado, el transporte será vital para reducir el impacto de los accidentes climáticos extremos y otras emergencias no climáticas.
+
+**Estrategia de gestión del riesgo de ipcc**
+
+![Vulnerabilidad al cambio climático](imagen4.jpg)
+
+**Matriz del riesgo alimentario**
+
+![Matriz del risgo alimentado (fuente ipcc-2018)](imagen5.png)
+
+**El rol de la cadena de suministros en la resiliencia**
+
+![Acciones comúnes Mitigación/Adaptación](imagen6.png)
+
+
+## Logística Humanitaria 
+
+**Logística y emergencias**
+
+* En general se concibe como un sistema en el cual, la interrelación de sus partes facilita la obtención de un objetivo de manera más rápida y ordenada mediante la utilización optimizada de los recursos.
+
+* En las operaciones de emergencia la logística es requerida para apoyar la organización e implementación de las acciones de respuesta, para que estas sean rápidas como también ágiles y efectivas.
+
+**Planificación y preparación de la logística**
+
+* Se pretende aportar algunos componentes básicos para la elaboración de un plan del sistema logístico para las emergencias.
+* Las actividades logísticas pueden ser planificadas y requieren de una preparación que será decisiva para su adecuado funcionamiento.
+* La logística debe ser un componente activo del Plan Nacional de Emergencias de un país.
+
+El Plan:
+
+Este plan debe responder a las siguientes preguntas y describir con claridad sus respuestas:
+
+* ¿Cuáles son las tareas que deben ser realizadas; ¿Cómo se relacionan con otras actividades y cuáles son las secuencias de su realización?
+* ¿Quiénes serán los responsables de realizar dichas tareas (más que individuos, se debe identificar secciones o departamentos)?
+* ¿Quién estará a cargo de la coordinación global del sistema logístico?
+* ¿Cuáles recursos serán necesarios? ¿Cómo y dónde se conseguirán?.
+* ¿Qué acciones alternativas se pondrán en marcha en caso de ruptura del sistema definido?.
+
+La preparación (preparedness):
+
+* Análisis de vulnerabilidad de la infraestructura:
+  + Mapeo y revisión.
+  + Analizar los registros climáticos.
+  + Monitorear regularmente las modificaciones.
+* Disponibilidad de recursos estratégicos para apoyo logístico
+  + Hacer un inventario en el país de las fuentes y localización de diferentes tipos de suministros que podrían ser necesitados en una emergencia.
+  + Medios de transporte para la movilización de personas y provisiones.
+  + Examinar sitios para la operación de bases logísticas.
+  + Disponibilidad de refacciones y acceso a reparaciones.
+  + Capacidad de puertos y aeropuertos para manejar provisiones de emergencia bajo diferentes escenarios.
+  + Otras opciones de transporte.
+* Revisión de políticas, planes y preparativos gubernamentales:
+Es importante para las organizaciones gubernamentales (ONG) conocer cuáles son las políticas y planes del Estado con relación a las emergencias.
+
+**La cadena logística de los suministros en emergencias**
+
+* Se caracteriza por ser de planeación en periodos cortos no mayores a 5 años.
+* La mayor parte de sus operaciones están tercerizadas.
+* Existen 4 niveles de tercerización en función del grado de responsabilidad que se le otorga al operador.
+* El nivel 4PL es el más utilizado, pero no se acomoda a la administración de todas las empresas.
+
+Las tareas que se deben contemplar en la planeación.
+
+* El abastecimiento. Se contemplan las formas de adquisición.
+* El transporte. Se deben contemplar las posibilidades reales.
+* El almacenamiento. Se debe tomar en cuenta el espacio mas amplio con el que se cuenta.
+* La distribución.
+
+![Cadena Logística](imagenlh1.png)
+
+
+![Estilo clásico Logística Militar](imagenlh2.png)
+
+**Herramientas tecnológicas 3 y 4 PL**
+
+* 3PL (Third Party Logistics): La externalización en la que la gestión de las herramientas informáticas responsables de la gestión de la cadena de suministro están en manos del operador.
+
+* 4PL (Fourth Party Logistics): El operador logístico se hace responsable de toda operación logística de una empresa, incluido el desarrollo estratégico de la misma.
+
+**Evaluación de necesidades logísticas y de suministros**
+
+* Es de vital importancia evaluar los isguientes puntos:
+  + Necesidades. De la población y para las operaciones.
+  + Capacidades. De la infraestructura y la disponibilidad de recursos.
+  + Medidas de restricción o facilitación. Como por ejemplo ONGs, clima, aduanas, políticas, corrupción, etc.
+
+**Principales Organismos internacionales que intervienen en emergencias**
+
+* Algunos organismos internacionales importantes son:
+  + Organismos de las naciones unidas: UNICEF, OCHA.
+  + Agencias multilaterales: OEA, ECHO.
+  + Agencias gubernamentales o bilaterales: JICA, GTZ.
+  + No gubernamentales: Cruz Roja.
+
+## Software para logística humanitaria
+
+**Cálculo de Necesidades y Capacidades de Almacenamiento**
+
+Optar por el sitio más grande.
+Adicionalmente sabemos que dependiendo de su peso, las provisiones ocupan diferente “volumen de almacenamiento”. 
+En algunas operaciones de emergencia en que se tiene más control sobre los suministros como la distribución de alimentos para albergues temporales es mas fácil realizar su control.
+
+* Se debe Siempre utilizar el espacio más grande disponible.
+* Algunas generalidades de espacio requerido se muestran a continuación:
+
+![Cálculo de necesidades y capacidades de almacenamiento](imagenlh3.png)
+
+Memória de cálculo:
+
+![Determinación de las capacidades de almacenamiento](imagenlh4.png)
+
+**Cálculo de reciones**
+
+Un método aproximado pero muy utilizado en logística militar es este (norma std-mil 22-0-14).
+
+![Cálculo de reciones](imagenlh5.png)
+
+**Sitios alternativos para almacenamiento**
+
+* Se puede construir una instalación con material duro como madera, plástico, prefabricados, laminas metálicas.
+* Se debe pensar en soluciones sencillas siempre considerando el tipo de producto a almacenar.
+
+
+##  Personal requerido
+
+**Equipos y materiales requeridos en la bodega**
+
+Se debe contar con equipos y materiales básicos como:
+
+* Software SUMA.
+* Formularios y tarjetas.
+* Material de escritorio.
+* Extintores.
+* Estantería, escalera.
+* Equipo hidraulico.
+
+**Zonas de movimiento y sectores de la bodega**
+
+Normalmente, un 70% del espacio disponible se usa para el almacenamiento y el 30% restante, como espacio de trabajo como:
+
+* Zona de llegada.
+* Zona de separación.
+* Zona de picking. 
+* Zona de almacenamiento.
+* Zona de entrega.
+
+![Zonificación Almacén o Bodega](imagenpr1.png)
+
+**Transporte y rescate humanitario**
+
+* El transporte es el componente de la cadena logística que servirá para hacer llegar la asistencia al sitio donde es requerida.
+
+* Al definir la estrategia de transporte se debe tomar en cuenta no solo los medios y recursos necesarios para la movilización, sino que se debe determinar cuáles son las posibilidades reales y cuáles las alternativas para la entrega de la asistencia.
+
+Tipos de transporte y características:
+
+la decisión esta dada por variables relacionadas con las necesidades identificadas y las posibilidades concretas y accesibles.
+
+Tipo de transporte| Desglose
+:-------------: | -------------: 
+Aéreo (avión) | Cubre grandes distancias, es más rápido, costoso, necesidades especiales
+Aéreo (helicóptero)| es más versátil, poca capacidad de carga, acceso a zonas muy dificiles
+Terrestre (camión) | Depende de la ruta, económico, capacidad de carga escalable, evitar zonas de conflicto 
+Terrestre (tren) | Flexible, económico, incomodo para cargar y descargar, necesita un segundo transporte
+Marítimo | Enorme capacidad de carga, muy económico, lento
+Fluvial | Muy útil en inundaciones, bajo costo, capacidad limitada
+Humano y animal | Ideal para áreas pequeñas y remotas, muy bajo costo, poca capacidad de carga, lento
+
+
+El transporte comercial versus transporte no comercial:
+
+Al contratar debemos tener en cuenta no solo el precio, sino la confiabilidad y calidad de la empresa
+Modalidades:
+
+* Por tonelada/km: el costo es establecido desde el principio y no cambia, requiere bastante control.
+* Por viaje de cada vehículo: Requiere control en el cargado y descargado.
+* Por vehículos por día: Recomendado para tramos cortos, puede tardar más de lo necesario. 
+
+**Cálculo de transporte requerido**
+
+Se debe tomar en cuenta:
+Naturaleza de los suministros, cantidad de la carga, destino de la carga, urgencia de la entrega
+
+Cálculo de cantidad de vehículos requeridos
+
+Procedimiento de cálculo:
+
+ * ¿Cuántas toneladas de carga tenemos que mover? ¿En qué periodo de tiempo?
+ * ¿Cuánto tarda el vehículo ida y regreso para llevar una carga del sitio de despacho al sitio de recepción? (No sobrestimar la velocidad e incluir el tiempo de carga y descarga)
+ * ¿Qué capacidad de carga tienen los vehículos?
+ 
+ $$N°viajes/vehículo=Periodo. misión/ Tiempo. ida-vuelta$$
+ $$N°cargas= Tonelaje. total/ capacidad. vehiculo$$
+
+$$N°Vehículos= N°cargas/ N°viajes/vehículo$$
+
+
+## Sostenibilidad y distribución multicanal
+
+**La importancia de adaptar los procesos Logisticos a una Estrategia Multicanal**
+
+Las estrategias multicanales dentro de las empresas son de mucha importancia, debido a que son el conjunto de herramientas que permiten atender a sus clientes por vías diferentes, donde la comunicación responde de forma independiente y sin integrarse entre sí.
+
+**Multicanal o Omnicanal**
+
+Omnicanal u omnicanalidad es un término empleado para hacer referencia a una estrategia de gestión del cliente.
+
+![Omnicanal la evolución del multicanal](imagensdm1.jpg)
+
+**¿Qué es el multicanal?**
+
+La estrategia de multicanal o multicanalidad es aquella que se centra en maximizar cada uno de los canales que la empresa o marca pone a disposición de sus clientes para consumo de información o incluso adquisición de producto.
+
+**¿Cuál es el principal problema al aplicar estrategias multicanales?**
+
+La falta de coordinación y de alineamiento entre los canales de una compañía.
+
+**¿Qué es la Logística Omnicanal?**
+
+Es la integración y gestión de la experiencia de usuario o cliente de todos los canales en el mercado que configuran el proceso de compra y venta.
+
+![La Omnicanalidad y la Industria 4.0](imagensdm2.jpg)
+
+**Elementos claves para implementar Omnicanal**
+
+Para las empresas es fundamental adaptarse a esta realidad y la forma de conseguirlo es mediante una estrategia omnicanal con ayuda de las siguientes claves:
+
+* Comunicación con el cliente.
+* Integración de los sistemas del cliente.
+* Información en tiempo real.
+* Integración con los transportistas.
+* Innovaciones Tecnológicas.
+
+![Las tecnologías clave en omnicanal](imagensdm3.jpg)
+
+**Caso práctico: Aplicando la estrategia multicanal en tiendas de retail**
+
+Un cliente va a comprar a una tienda física un refrigerador, pero al momento de llegar a su casa, decide comprar también un celular por medio del sitio web de la empresa.
+
+**¿La solución logística a este problema?**
+
+La multitienda opta por sincronizar sus diferentes canales, por medio de un sistema logístico de distribución y seguimiento de los despachos en tiempo real.
+
+## Microcadena de Suministros "Nano Retail"
+
+**¿Qué es micro retail? ¿Por qué y cómo los minoristas se están volviendo más pequeños?**
+
+* Modelo minorista que incluye objetivos demográficos que se centran en una pequeña selección de produtos populares.
+* Es poco probable quedarse on productos sin vender o caducados y además, permite a los consumidores experimentar los productos en persona antes de relizar los pedidos en linea.
+
+![Micro Retail](imagenmsnr1.png)
+
+
+**Agenda**
+
+* ¿Qué es la microventa?.
+* Beneficios de la micro venta al por menor.
+* Cómo lanzar una microtienda minorista exitosa.
+
+**¿Qué es la microventa?**
+
+La microventa minorista se define como un modelo minorista que incluye cosas como tiendas emergentes a pequeña escala y escaparates boutique que aprovechan una variedad de actividades innovadoras reducidas.
+
+**Menos espacio para stock significa más espacio para la innovación**
+
+Debido a que las tiendas pequeñas no tienen espacio para mucho inventario, pueden enfocarse en brindar una experiencia única y usar esos ahorros para invertir en innovación.
+
+**El tamaño más pequeño de un espacio de microventa minorista requiere innovación, incluso para las marcas establecidas**
+
+Las pequeñas tiendas minoristas pueden adaptarse a la comunidad local y convertirse en parte de la comunidad.
+
+![Figura3](imagenmsnr2.png)
+
+**Cómo lanzar una microtienda minorista exitosa**
+
+Hay muchas prácticas de las que se puede aprender para lograr el éxito que han experimentado otras marcas, estas son:
+* Asociación con otras tiendas.
+* Retribución a la comunidad local.
+* Desarrollo de una experiencia que se centre en lo que hace que su marca sea exitosa.
+* Uso de la segmentación del mercado para adaptar los surtidos al comprador local.
+
+![Café Microretail](imagenmsnr3.jpg)
+
+## Logística inversa
+
+**Introduccion a Logística Inversa**
+
+Hoy en día existe la posibilidad de recuperar y aprovechar económicamente aquellos productos que dejan de satisfacer las necesidades del consumidor; dicha recuperación genera un flujo de materiales y productos desde el consumidor hasta el productor, que por oposición al tradicional flujo logístico productor-consumidor se denomina Logística Inversa o Función Inversa de la Logística.
+
+![Manual de logística inversa Tapa blanda de Antonio Iglesias López](imagenli1.jpg)
+
+**¿Qué es la logística inversa?**
+
+![Logística inversa y ambiental: Retos Y Oportunidades En Las Organizaciones Modernas – Luis Aníbal Mora](imagenli2.jpg)
+
+**Definición formal**
+
+Proceso de planifiación y control del retorno de los productos desde los puntos de consumo o usuario final hasta el fabricante o distribuidor para efectuar su recuperación, reparación, reciclaje o eliminación.
+
+
+![Logística inversa](imagenli3.png)
+
+**Productos fuera de uso (PFU)**
+
+Se pueden establecer dos tipos de bienes que fluyen en forma inversa: 
+
+* Artículos deseados: Incluyen todos los artículos que entran al flujo inverso por razones desconocidas, pero usualmente a causa de insatisfacción del consumidor.
+* Artículos no deseados: Son producto de acuerdos post-venta con el consumidor, brindándole a éste algunas ventajas usualmente de intercambio, reemplazo o, en algunas ocasiones, de compra (beneficios económicos).
+
+
+**Actividades relacionadas**
+
+![Logística inversa](imagenli4.png)
+
+
+**Formas de competitividad**
+
+* Liderazgo de costos. 
+* Diferenciación. 
+* Enfoque a nicho. 
+
+**Ventajas y Desventajas de la Logística Inversa**
+
+Ventajas| Desventajas
+:-------------: | -------------: 
+Disminución de la sorpresa o incertidumbre | Requiere la realización de estudios previos
+Reaprovechamiento de algunos materiales| No se trata sólo de una simple manipulación del producto
+Posibilidad de abarcar otros mercados | Los dep. de la empresa se relacionan con las activ. que se pretendan implementar de Logística Inversa
+Mayor confianza en el cliente | Las entradas a un proceso de Logística Inversa son “impredecibles”
+Mejora considerable de la imagen de la empresa | Las inspecciones deben ser realizadas en cada producto de forma individual y minuciosa
+Retroalimentación acerca del producto | La nueva cadena (inversa) incluye un número de procesos inexistentes en logística directa.
+Gestión eficiente de las devoluciones | Se debe decidir si la empresa debe realizar las distintas actividades con sus propios recursos o si, por el contrario, requerirá los servicios de un operador espeializado (3PL)
+Disminución de los residuos | Las devoluciones en pequeñas cantidades tienden a representar mayores costos al integrarlos al sistema
+
+
+
+## EXPORTACIONES DE QUINUA 2021
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(readxl)
+Quinua_exportaciones <- read_excel("C:/Users/belbl/Downloads/Quinua_exportaciones.xlsx")
+   
+   RA <- Quinua_exportaciones
+```
+
+```{r}
+library(kableExtra)
+RA %>%
+  kbl(caption = "Estrategias Omnicanal Exportacion de Quinua") %>%
+  kable_classic(full_width = F, html_font = "Cambria")
+```
+Bolivia es uno de los principales exportadores de quinua en el mundo, siendo
+  Oruro y Potosi los principales productores de quinua en Bolivia, exportando mas de 25 millones
+  de Kg al año.
+
+```{r}
+library(alluvial)
+library(dplyr)
+RA %>% group_by(Origen,Continente) %>% summarise(n = sum(PesoKg)) -> tit2d
+ alluvial(tit2d[,1:2],freq=tit2d$n)
+
+
+```
+Bolivia exporta gran variedad de quinua entre las mas requeridas estan la quinua roja, negra y blanca
+ De la grafica anterior se puede ver que Oruro Es el mayor productos de quinua en Bolivia.
+ Siendo america del norte el subcontinente con mayor importacion de quinua Boliviana, principalmente Estados Unidos.
+ seguido del continente Europeo, con Alemania y Francia los principales compradores.
+ Cabe recalcar que Asia incrementara sus importaciones de Quinua Boliviana, debido a que Japon a partir de este año
+ comenzara a ser un comprador importante para Bolivia.
+
+```{r}
+RA %>% group_by(Origen,Salida,Continente) %>%
+ summarise(n = sum(PesoKg)) -> tit3d
+alluvial(tit3d[,1:3], freq=tit3d$n)
+```
+
+Bolivia exporta gran variedad de quinua entre las mas requeridas estan la quinua roja, negra y blanca
+De la grafica anterior se puede ver que Oruro Es el mayor productos de quinua en Bolivia.
+La exportacion de quinua en su mayoria sale por la frontera Chilena Tambo Quemado- Charana - Arica y de ahi
+se transporta por via maritima a los diferentes continentes.
+
+```{r}
+RA %>% group_by(Origen,Destino,Principal) %>%
+ summarise(n = sum(PesoKg)) -> tit3d
+alluvial(tit3d[,1:3], freq=tit3d$n)
+
+```
+
+Como principales compradores se tiene Estados Unidos, Francia, Alemania, Canada y Paises Bajos.
+
+
+## Fin de la presentación
+
+Gracias por su atención
