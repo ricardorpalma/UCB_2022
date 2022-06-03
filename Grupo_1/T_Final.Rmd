@@ -1,0 +1,614 @@
+---
+title: "Trabajo final"
+author: "Rolando Rodriguez"
+date: '2022-05-30'
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Analisis de Riesgo
+
+En la actualidad, existen dos lenguajes de propósito general que se están imponiendo en el terreno de abordar y aplicar los conceptos de Analítica de Datos.
+
+*   Python
+-   Lenguaje R-Cran (el más usado a nivel ingenieril), es un lenguaje pensado para “No Programadores”
+
+## Analitica de Datos
+
+Permite a las organizaciones analizar sus datos (en tiempo real, históricos, no estructurados, estructurados, cualitativos) para identificar patrones y generar conocimientos para informar o automatizar decisiones,es considerara una ventaja competitiva impulsando la transformación digital.
+
+## Dimensiones que engloba la Analitica de Datos
+
+- Inteligencia de negoci
+
+- Preparación de datos 
+
+- Visualización de datos
+
+- Analítica geoespacial y de ubicación
+
+- Analítica Productiva
+
+- Machine Learning
+
+- Streaming Analytics
+
+
+## Los beneficios de la analitica de datos
+
+- Simplificar, colaborar y llegar más lejos
+
+- Detectar valores atípicos y tomar medidas al respecto
+
+- Operacionalizar, monitorizar, gestionar y confiar
+
+- Conectar la inteligencia a la acción
+
+- Responder de forma rápida y correcta
+
+
+## Principales casos de uso de la analítica de datos
+
+-	Detección de anomalías
+-	Gestión de datos de clientes
+-	Gestión del riesgo
+-	Detección de fraudes
+-	Personalización
+-	Realización de estudios de mercado
+-	Análisis de operaciones
+
+## Logistica Humanitaria 
+
+La logística se concibe como un sistema en el cual, la interrelación de sus partes facilita la obtención de un objetivo de manera más rápida y ordenada mediante la utilización optimizada de los recursos.
+
+La movilización del personal, de herramientas y del material.
+
+ 
+## Planificación y preparación de la logística
+
+- **El Plan.**
+
+    Conocimiento geografico, social, politico y fisico.
+    
+- **La preparación**
+
+    Vulnerabilidad, recursos extrategicos, politicas y planes.
+
+
+
+
+## La cadena logística de los suministros en emergencias
+
+* 1PL (First Party Logistics): subcontratación del transporte.
+
+* 2PL (Second Party Logistics): externalización de transporte y almacenaje.
+
+* 3PL (Third Party Logistics): externalización en la que la gestión de las herramientas informáticas responsables de la gestión de la cadena de suministro están en manos del operador.
+
+##
+
+* 4PL (Fourth Party Logistics): el operador logístico se hace responsable de toda operación logística de una empresa.
+
+
+
+```{r echo=FALSE, out.width="50%", fig.align='center'}
+  
+knitr::include_graphics("grafica.jpg",error = FALSE)
+  
+
+```
+
+
+
+## Principales Organismos internacionales que intervienen en emergencias.
+
+* Programa de Naciones Unidas para el Desarrollo (PNUD)
+
+* Departamento de Asuntos Humanitarios (OCHA) 
+
+* Programa Mundial de Alimentos (PMA) 
+
+* Alto Comisionado de la Naciones Unidas 
+
+* Fondo de las Naciones Unidas para la Infancia (UNICEF) 
+
+* Organización Mundial de la Salud / Organización Panamericana de la Salud (OMS/OPS) 
+
+## Software para logistica humanitaria
+
+Visitar el siguiente link:
+(https://www.lssweb.net/index.php/lss-downloads)
+
+## Agencias multilaterales
+
+- Organización de Estados Americanos 
+- Agencia del Caribe para Asistencia a los Desastres 
+- Centro para la Prevención de desastres naturales en América Central
+- Oficina de asistencia humanitaria de la comunidad europea
+
+## Agencias gubernamentales o bilaterales
+
+- OFDA-AID Oficina del gobierno de los Estados Unidos de América para desastres en el exterior
+- Agencia Japonesa de Cooperación Internacional (JICA)
+- Agencia Alemana de Cooperación (GTZ)
+- Agencia Sueca de Desarrollo Internacional (SIDA
+
+## Organizaciones no gubernamentales
+
+- Movimiento de la Cruz Roja y la Medialuna Roja
+- Comité Internacional de la Cruz Roja
+- CARE
+- CARITAS
+- Médicos Sin Fronteras (MSF)
+- OXFAM
+- Acción Contra el Hambre (ACH)
+- Ejército de Salvación
+- Consejo Mundial de Iglesia
+
+## Cálculo de Necesidades y Capacidades de Almacenamiento
+
+En las operaciones típicas de emergencia por lo general es sumamente difícil prever las cantidades que se van a recibir, sobre todo que la mayoría de las provisiones podrían llegar sin ser solicitadas. Es mejor optar por el sitio más grande, aunque en el primer momento la cantidad de suministros no lo amerite. 
+
+
+```{r echo=FALSE, out.width="50%", fig.align='center'}
+  
+knitr::include_graphics("tabla1.jpg",error = FALSE)
+  
+
+```
+
+## Memoria de Cálculo
+
+Determinación de las capacidades de almacenamiento
+
+```{r echo=FALSE, out.width="80%", fig.align='center'}
+  
+knitr::include_graphics("tabla2.jpg",error = FALSE)
+  
+
+```
+
+## Cálculo de raciones
+
+Ejemplo de calculo para 30.000 personas un acopio inicial de emergencia de 100 Tm de Arroz
+
+
+```{r echo=FALSE, out.width="90%", fig.align='center'}
+  
+knitr::include_graphics("tabla3.jpg",error = FALSE)
+  
+
+```
+
+## Sitios alternativos para almacenamiento
+
+La decisión de qué tipo de estructura construir tiene relación con la duración prevista de la operación:
+
+- Construir instalación con material duro (madera, láminas metálicas para techo, etc.) o bien con plástico reforzado del tipo usado por Médicos Sin Fronteras y OFDA. 
+
+- Almacenar en contenedores o en el cajón de los mismos camiones, aunque esto es desaconsejado para productos que como los alimentos y medicamentos soportan mal las altas temperaturas que se generan en estos sitios.
+
+## Personal requerido 
+
+- Solo una persona debe estar a la cabeza.
+- El equipo para las tareas de mantenimiento y manipulación de los suministros, podría ser formado por voluntarios (ayuda a reducir el costo de mano de obra).
+- Personal de seguridad también será necesario, para controlar la llegada de personas no autorizadas al perímetro inmediato de la bodega
+
+## Equipos y materiales requeridos en la bodega
+
+Para el funcionamiento adecuado de la bodega, se debe contar con equipos y materiales que son básicos: 
+
+- Sistema informatizado (software SUMA, hoja de cálculo o algún otro sistema).
+-	Formularios y tarjetas para control de existencias, ingresos y salidas de productos.
+-	Papelería y material básico de oficina, calculadora, etc.
+-	Botiquín de primeros auxilios.
+-	Extintores, generador eléctrico, equipo de refrigeración, palets o tarimas para apilar los productos.
+-	Escaleras
+-	Materiales y productos de limpieza carretillas,
+-	Equipo hidráulico para carga y movilización de la carga
+-	Equipo de seguridad para los trabajadores
+
+
+## Zonas de movimiento y sectores de la bodega
+
+70% del espacio disponible: almacenamiento 
+
+30% del espacio disponible: espacio de trabajo (zonas de movimiento, empaque, acceso, etc.).
+
+Es necesaria la identificación de zonas de movimientos y sectores específicos dentro de la bodega. Un esquema básico de distribución del espacio de la bodega se puede resumir de la manera siguiente:
+
+**A** Zona de llegada: se ingresarán las provisiones y se realizan las tareas de recepción, verificación y control de los contenidos.
+
+**B** Zona de separación, clasificación y registro: en esta zona se separan las provisiones por prioridad (urgente, no urgente, desechable) y se clasifican por categoría según su naturaleza.
+
+**C** Zona picking o empaque y preparación de entregas: se preparan los envíos que serán despachados. 
+
+##
+
+**D** Zona de almacenamiento: se mantiene el material o suministros sin destino inmediato. Esta zona está dividida en sectores de acuerdo con el tipo de suministro.
+
+**E** Zona de entrega: para colocar las provisiones que están listas para despacho. Estas provisiones deben ser apiladas en paletas separadas y etiquetadas de acuerdo con su destino.
+
+**F** Sector administrativo: área para las tareas de manejo administrativo.
+
+## Almacenamiento y distribución interna de los suministros
+
+-	No se deben mezclar productos de diferente naturaleza en la misma estiba, paleta o lote y que los materiales peligrosos. 
+-	El sitio debe ser limpiado profundamente
+-	Los suministros deben ser apilados por sectores de acuerdo con su naturaleza.
+-	Los productos no deben estar en contacto directo con el piso ni con las paredes, las botellas y enlatados pueden ponerse en el piso temporalmente.
+-	Se debe tener en cuenta el peso de los suministros en relación con la resistencia del piso.
+-	El alto de la estiba debe tomar en cuenta la resistencia del material de empaque.
+-	Para facilitar el equilibrio de las estibas, se debe apilar alternando la dirección de los bultos o cajas en cada capa.
+
+##
+
+-	Debe haber espacio suficiente entre las estibas para que permita el movimiento de personas y equipo hidráulico.
+-	Verificar que los paquetes que contienen líquidos (aceite, agua, etc.) están siendo estibados por el lado correcto para evitar derrames.
+-	Los recipientes que presenten fugas, así como los costales o bultos rotos, deben ser puestos aparte y no en las estibas.
+-	Productos en empaques rotos o deteriorados deben ser re empacados o distribuidos lo más pronto posible.
+-	Nunca re empacar productos de uso o consumo humano en recipientes cuyo contenido anterior desconocemos.
+
+## Personal Requerido     Procedimientos para el ingreso y los despachos
+
+**Ingresos**
+
+-	Toda carga ingresando a la bodega debe ser verificada en cantidad, peso, calidad y registrada en inventario. El contenido debe corresponder a lo declarado por los documentos.
+Mediante la inspección física de la carga, se debe identificar:
+-	Bultos con evidencia de haber sido saqueados, rotos, húmedos
+-	Recipientes con fugas.
+-	Latas dañadas, no etiquetadas, vencidas o contaminadas.
+
+**Entregas**
+
+-	Rotación FIFO
+-	Mismo procedimiento de revisión física y documental.
+
+## 
+
+**Sistemas de control y monitoreo**
+
+-	Garantizar la conservación de las provisiones
+-	Evitarse al máximo el acceso de personas ajenas
+-	Llevar un índice de rotación de inventarios y niveles de consumo de existencias
+-	Control y monitoreo de inventarios estrictos y periódicos.
+-	Documentar todos los movimientos en bodega 
+
+**Salud ocupacional en la bodega**
+
+- Prohibido fumar
+-	Correcto uso de EPPs
+-	Señalética horizontal y vertical correctamente instalada.
+-	Correcta ubicación y capacitación de personal a cargo de extintores y equipo de primeros auxilios.
+
+## Mantenimiento y medidas sanitaria
+
+**Mantenimiento:**
+
+- Realizar inspecciones regulares condiciones, instalaciones eléctricas, cerraduras, techumbre y estructura física de las instalaciones en general. 
+
+**Higiene:**
+
+- Evitar la acumulación de desechos o materiales sin control. 
+- Establecer un plan de limpieza e inspección de la bodega, diario y periodico. 
+- Eliminar presencia de insectos, roedores, pajaros telas de arañas y capullos.
+- Verificar daños causados por el agua (p.e. goteras), o plagas.
+- Detectar fuga de líquidos y signos de fermentación.
+- Prevenir ingreso de animales, no mezclar alimentos contaminados 
+- Realizar fumigación y otras medidas químicas por personal competente. 
+
+##
+
+Ejemplo de condiciones que deben ser observadas para el almacenamiento adecuado.
+
+```{r echo=FALSE, out.width="80%", fig.align='center'}
+  
+knitr::include_graphics("tabla4.jpg",error = FALSE)
+  
+
+```
+
+**Materiales peligrosos**
+
+No deben ser almacenados en el mismo sitio que los productos de consumo humano, el personal a cargo debe conocer las normas y regulaciones para la identificación, manipulación, transporte y almacenamiento de estas sustancias. Los productos de este tipo deben estar identificados con las etiquetas estandarizadas según su naturaleza.
+
+## Transporte y rescate humanitario
+
+El transporte es el componente de la cadena logística que servirá para hacer llegar la asistencia al sitio donde es requerida. Al definir la estrategia de transporte se debe tomar en cuenta no solo los medios y recursos necesarios para la movilización, sino que se debe determinar cuáles son las posibilidades reales y cuáles las alternativas para la entrega de la asistencia, en muchas ocasiones, estos movimientos implican la combinación de medios diversos de transporte.
+
+## Tipos de transporte y características
+
+Se debe tomar en cuenta las necesidades y posibilidades de cada situación, la urgencia de la entrega; el tipo y características de los suministros que se van a transportar, la cantidad, el tamaño y destino de la carga, distancias a recorrer. Por cada medio de transporte planificado deberá haber un plan de respaldo para el caso en que las circunstancias imposibiliten su uso.
+
+Ejemplo:
+
+```{r echo=FALSE, out.width="80%", fig.align='center'}
+  
+knitr::include_graphics("tabla5.jpg",error = FALSE)
+  
+
+```
+
+## El transporte comercial versus transporte no comercial
+
+- El transporte no comercial, alivia los gastos de operación, pero por lo general los dueños del transporte no asumen responsabilidades por la seguridad de la mercadería, en estos casos habrá que extremar las medidas de seguridad para proteger la carga.
+- El transporte comercial, se debe tener en cuenta el precio, la confiabilidad y calidad de la empresa exigiendo cualquier pacto acordado.
+
+##
+
+Ejemplo de aspectos a considerar para la contratación de servicios de transporte:
+
+```{r echo=FALSE, out.width="70%", fig.align='center'}
+  
+knitr::include_graphics("tabla6.jpg",error = FALSE)
+  
+
+```
+
+## Control de vehículos
+
+Preferentemente se trabajará con una compañía, de no ser posible lo principal es garantizar las buenas condiciones mecánicas y establecer medidas de mantenimiento y control para hacer un uso óptimo de este recurso.
+
+-	Designar un supervisor de conductores que se hará cargo de velar por la aplicación de las normas establecidas para el uso y mantenimiento adecuado de la flota.
+
+-	Establecer el uso de formularios para el registro de los controles y capacitar a los conductores.
+
+-	Política de “un vehículo, un chofer”
+
+-	Los conductores deberán hacer el control diario de sus vehículos y antes de iniciar la ruta.
+
+-	Tanto los vehículos como sus conductores deben tener sus documentos en orden.
+
+## Combustible y lubricantes
+
+Desde el inicio de la emergencia, se debe establecer un control meticuloso del consumo de acuerdo con los recorridos que realizara cada vehículo.
+
+-	El consumo de los vehículos se anota en “cuaderno de vida”, indicando la fecha y el kilometraje de cada reabastecimiento.
+-	Este control debe ser revisado periódicamente por el responsable de la flotilla. 
+
+##
+
+Modelo básico de control de consumo de combustible y su relación con los kilómetros recorridos:
+Muchos de estos datos pueden capturarse del GPS o la computadora de abordo del vehículo mediante protocolo OBDII y OBDIII.
+
+```{r echo=FALSE, out.width="90%", fig.align='center'}
+  
+knitr::include_graphics("tabla7.jpg",error = FALSE)
+  
+
+```
+
+## Sostenibilidad y distribución multicanal
+
+Multicanalidad o Omnicanalidad
+
+```{r echo=FALSE, out.width="50%", fig.align='center'}
+  
+knitr::include_graphics("tabla8.jpg",error = FALSE)
+  
+
+```
+
+## Multicanal o Omnicanal
+
+**Omnicanal:** Esta estrategia aborda todo el ciclo de vida de la relación del cliente con la empresa proveedora, donde se establece una comunicación e interacción por los distintos canales que el cliente quiera usar para interactuar con la empresa, fundamentalmente en tiendas físicas (Retail), Internet, Mobile o el Contact Center es una de las definiciones que podemos encontrar en la web cuando buscamos el significado de Omnicanalidad.
+
+**Multicanalidad:**  Se centra en maximizar cada uno de los canales que la empresa o marca pone a disposición de sus clientes para consumo de información o incluso adquisición de producto
+
+
+## Elementos claves para implementar Omnicanal 
+
+1 Comunicación con el cliente
+
+2 Integración de los sistemas del cliente
+
+3 Integración de los sistemas del cliente
+
+4 Integración con los transportistas
+
+5 Innovaciones Tecnológica que faciliten las compras de los clientes
+
+## Beneficios de implementación de omnicanalidad
+
+- Mayor control sobre los indicadores claves de rendimiento 
+- Opciones de cumplimiento flexibles en múltiples canales 
+- Visibilidad de extremo a extremo 
+- Mejores estrategias de gestión de riesgos 
+- Mejora de la gestión de inventario, reduciendo los casos de exceso de existencia y existencias insuficientes Mejora del proceso de TI 
+
+## Microcadena de Suministros “Nano Retail”
+
+La microventa minorista se define como un modelo minorista que incluye cosas como tiendas emergentes a pequeña escala y escaparates boutique que aprovechan una variedad de actividades innovadoras reducidas.
+
+La microventa  requiere gastos generales más bajos.
+
+Debido a que las tiendas pequeñas no tienen espacio para mucho inventario, pueden enfocarse en brindar una experiencia única y memorable y usar esos ahorros para invertir en innovación.
+
+## Cómo lanzar una microtienda minorista exitosa 
+
+```{r echo=FALSE, out.width="50%", fig.align='center'}
+  
+knitr::include_graphics("tabla10.jpg",error = FALSE)
+  
+
+```
+
+
+
+1 Asociarse con otras tiendas: Debe tener audiencias superpuestas. Para tener éxito, sus audiencias principales deben alinearse. Sin embargo, algunas ligeras diferencias en la audiencia pueden traerles a ambos nuevos clientes.
+
+## 
+
+ 2	Retribuir a la comunidad local Si bien es una buena idea que todas las ubicaciones de sus tiendas minoristas retribuyan a sus comunidades, resaltar sus valores puede ser especialmente valioso dentro de las tiendas minoristas micro. Participar en la comunidad local sirve como una oportunidad de marketing, así como una oportunidad para hacer el bien.
+
+ 3	Desarrolle una experiencia que se centre en lo que hace que su marca sea exitosa una microubicación debe existir como una experiencia que cristalice su oferta principal.
+
+ 4 Utilice la segmentación del mercado para adaptar los surtidos al comprador local: La segmentación del mercado es el proceso de identificar los grupos de personas con más probabilidades de convertirse en clientes. Si ya tiene tiendas minoristas físicas, divida su territorio de venta en secciones locales y luego atribuya las transacciones de su tienda por regiones. Una vez hecho esto, puede ver qué se vende mejor en cada ubicación y usarlo para informar sus elecciones.
+
+## Logística Inversa
+
+La logística inversa **se encarga de la recuperación y reciclaje** de envases, embalajes y residuos peligrosos; así como de los **procesos de retorno de excesos de inventario, devoluciones** de clientes, productos obsoletos e inventarios estacionales. Es una manera de retorno para unos materiales que se reutilizan, reciclan o destruyen.
+
+```{r echo=FALSE, out.width="50%", fig.align='center'}
+  
+knitr::include_graphics("tabla11.jpg",error = FALSE)
+  
+
+```
+
+## Productos fuera de uso (PFU)
+
+Se pueden establecer dos tipos bienes que fluyen en forma inversa , los deseados y los no deseados.
+
+- Los articulos no deseados incluyen todos los artículos que entran al flujo inverso por razones desconocidas, pero usualmente a causa de insatisfacción del consumidor.
+
+- 	Los artículos denominados deseados son producto de acuerdos postventa con el consumidor, brindándole a éste algunas ventajas usualmente de intercambio.
+
+## Actividades relacionadas
+
+1. Logística Inversa comienza con realizar un reconocimiento de la situación
+
+2. Llevar a cabo una recuperación o distribución inversa del artículo en cuestión, trasladándolo físicamente a un lugar donde la empresa pueda disponer de él sin implicar que se tome acción alguna con respecto a éstos. 
+
+3. Revisión del item considerando los factores clasificación y consolidación
+
+4. Opciones de decisión se mencionan: refabricación, renovación, reutilización, reciclaje, eliminación y reingeniería. 
+
+## Formas de competitividad con logística inversa
+
+- Liderazgo de costos. Implica tener los costos más bajos en el sector, pero el producto debe ser de una calidad similar o equivalente a la de la competencia.
+- Diferenciación. Una empresa busca ser única en su sector valiéndose de algunas dimensiones que son ampliamente valoradas por los compradores, dedicándose a satisfacer estas necesidades.
+- Enfoque a nicho. Consiste en la elección de un mercado específico dentro de un sector determinado. La empresa que se enfoca ajusta su estrategia a servir a estos consumidores con exclusión de otros, buscando lograr una ventaja competitiva en su segmento objetivo aunque no posea una ventaja competitiva general.
+
+## Ventajas y Desventajas de la Logística Inversa
+
+Algunas de las ventajas o beneficios potenciales de la implementación de un programa de Logística Inversa se mencionan a continuación: 
+
+* Disminución en la llegada de PFU. 
+
+* Reaprovechamiento de algunos materiales. 
+
+* Posibilidad de la empresa de abarcar otros mercados. 
+
+* Mayor confianza en el cliente al momento de tomar la decisión de compra. 
+
+* Mejora considerable de la imagen de la empresa ante los consumidores. 
+
+* Obtención de información de retroalimentación acerca del producto.
+
+##
+
+En lugar de mencionar los siguientes puntos como desventajas, se han denominado puntos críticos o posibles dificultades: 
+
+* Se requiere la realización de estudios previos para el establecimiento de políticas de decisión en el tema. 
+
+* No se trata sólo de una simple manipulación del producto. 
+
+* Todos los departamentos de la empresa están relacionados con las actividades que se pretendan implementar de Logística Inversa. 
+
+* Las entradas a un proceso de Logística Inversa son “impredecibles”. 
+
+* Las inspecciones deben ser realizadas en cada producto de forma individual y minuciosa. 
+
+* La nueva cadena (inversa) incluye un número de procesos inexistentes en logística directa. 
+
+* Se debe decidir si la empresa debe realizar las distintas actividades con sus propios recursos o si, por el contrario, requerirá los servicios de un operador espeializado (3PL). 
+
+* Las devoluciones en pequeñas cantidades tienden a representar mayores costos al integrarlos al sistema.
+
+## Ejercicio Redes Neuronales
+
+La base de datos con la que trabajamos cuenta con información sobre:
+
+- Región
+
+- Clase
+
+- Producto 
+
+- Inventario
+
+- Unidades Vendidas
+
+La base de datos cuenta con mas de 400 datos registrados.
+
+Mediante la red neuronal intentamos identificar y predecir la relacion entre las razones de compra de un producto y la region del cliente.
+
+Recalcar que nos falta el paso final en el cual se realiza la prueba del modelo. 
+```{r, include=FALSE}
+library(neuralnet)
+library(nnet) 
+library(NeuralNetTools)
+library(plyr) 
+library(kableExtra) 
+library(dplyr)
+
+library(readr)
+ClaseVentas <- read_csv("BD Razones de Ventas 2014 Adventure Works.csv")
+#View(BD_Razones_de_Ventas_2014_Adventure_Works)
+
+str(ClaseVentas)
+
+cor(ClaseVentas)
+correlacion <- cor(ClaseVentas)
+
+library(ggplot2)
+library(ggcorrplot)
+
+normalize<-function(x){
+  return ( (x-min(x))/(max(x)-min(x)))
+}
+
+clase_norm<-as.data.frame(lapply(ClaseVentas,FUN=normalize))
+
+indice <- sample(2, nrow(clase_norm), replace = TRUE, prob = c(0.9,0.1))
+clase_train <- clase_norm[indice==1,]
+clase_test  <- clase_norm[indice==2,]
+
+strAlgorithm <- 'rprop+'
+clase_model <- neuralnet(U_VENDIDAS~. , data = clase_train, rep = 3, algorithm = strAlgorithm)
+str(clase_model)
+
+model_results <- neuralnet::compute(clase_model,clase_test[1:4])
+predicted_quality <- model_results$net.result
+predicted_quality[1:4]
+
+cor(predicted_quality,clase_test$U_VENDIDAS)
+
+str_max <- max(ClaseVentas$U_VENDIDAS)
+str_min <- min(ClaseVentas$U_VENDIDAS)
+
+unnormalize <- function(x, min, max) { 
+  return( (max - min)*x + min )
+}
+
+ActualQuality_pred <- unnormalize(predicted_quality,str_min,str_max)
+head(ActualQuality_pred)
+
+clase_model2 <- neuralnet(U_VENDIDAS~. , data = clase_train, hidden=c(4,2),  rep = 3, algorithm = strAlgorithm)
+```
+
+
+## Visualizacion de la Matriz de Correlacion
+
+```{r}
+ggcorrplot(correlacion, method ="circle")
+```
+
+
+## Ploteo de la Red Neuronal
+
+```{r}
+
+plot(clase_model, rep = "best")
+```
+
+## Ploteo del Mejoramiento del Modelo
+
+```{r}
+plot(clase_model2 ,rep = "best")
+```
+
